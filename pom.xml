@@ -28,7 +28,7 @@
         <!-- ##### mybatis ##### -->
 
         <groovy-all.version>2.5.12</groovy-all.version>
-        <springfox-swagger.version>2.9.2</springfox-swagger.version>
+        <springfox-swagger2.version>2.9.2</springfox-swagger2.version>
 
     </properties>
 
